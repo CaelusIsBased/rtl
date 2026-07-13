@@ -1,4 +1,4 @@
-#design.sv
+#design
 
 module fixed_priority_arbiter #(parameter WIDTH = 4)(
   input clk,
